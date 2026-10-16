@@ -7,6 +7,9 @@ authors:
     affiliation: "Islamic Azad University, Hormozgan, Iran"
 title: "DU-CCEBM: IPIX and NetRAD maritime radar reproducibility software"
 version: 1.0.0
+doi: "10.5281/zenodo.23416237"
+date-released: 2026-10-16
+url: "https://doi.org/10.5281/zenodo.23416237"
 repository-code: "https://github.com/Hamzeh62/DU-CCEBM-Reproducibility"
 abstract: "Distinct frozen two-layer and six-layer IPIX DU-CCEBM experiments and per-window four-layer NetRAD/IPIX detection benchmarks, including numerical evidence and trained checkpoints."
 keywords:

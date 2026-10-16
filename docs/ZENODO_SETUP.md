@@ -1,15 +1,17 @@
-# Zenodo archiving after explicit final authorization
+# Zenodo archive: published v1.0.0
 
-1. Push this curated **new public repository** as a history-free initial commit.
-2. In Zenodo's GitHub integration, press Sync now and enable
-   `Hamzeh62/DU-CCEBM-Reproducibility` (the old private repository is distinct).
-3. Inspect GitHub CITATION metadata, both software license scopes, and file list.
-4. After final confirmation, create a GitHub Release with tag `v1.0.0` from the new public repo.
-5. Confirm that Zenodo ingested the version and produced a real DOI. Only then update
-   journal Code Availability and citation metadata with the real DOI.
+The public software release `v1.0.0` has been archived in Zenodo.
 
-Zenodo uses `.zenodo.json` in preference to `CITATION.cff`. This repository provides
-`CITATION.cff` only, deliberately. There is no fictitious DOI or inherited private Git history.
+- Sole research/software author: **Hamzeh Ghahramani**.
+- Public source repository: https://github.com/Hamzeh62/DU-CCEBM-Reproducibility
+- Version-specific archived artifact: https://doi.org/10.5281/zenodo.23416237
+- Initial clean source commit reported by Git: `50b3da43b818c4e4357b9bbbf39e4c1d20563a88`.
 
-See https://help.zenodo.org/docs/github/enable-repository/ and
-https://help.zenodo.org/docs/github/describe-software/citation-file/ .
+**The Zenodo archive is an immutable snapshot.** This post-publication metadata-only update
+of GitHub `main` does not retroactively change the already-published `v1.0.0` files and does
+not require creating another tag, release, or DOI. For an actual scientific change, create
+a separately versioned GitHub Release only after its own complete verification.
+
+The source repository provides `CITATION.cff` (no `.zenodo.json`). Use the exact version DOI
+when citing experimental software. The main software license and four-layer subpackage
+licenses have distinct scopes; consult `LICENSE_SCOPE.md`.

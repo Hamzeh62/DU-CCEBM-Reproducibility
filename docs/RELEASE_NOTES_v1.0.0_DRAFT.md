@@ -1,4 +1,7 @@
-# DU-CCEBM v1.0.0 — initial reproducibility release (draft)
+# DU-CCEBM v1.0.0 — initial reproducibility release (historical draft)
+
+> Historical pre-release draft retained for provenance. The release is now published on Zenodo:
+> https://doi.org/10.5281/zenodo.23416237
 
 Sole author: Hamzeh Ghahramani.
 
@@ -14,4 +17,5 @@ Licensing: BSD-3-Clause for main author-owned software; four-layer NetRAD/IPIX B
 their independent packages. Derived research evidence, figures, model weights, and raw data
 rights are identified separately in LICENSE_SCOPE.md.
 
-No DOI exists until a Zenodo archive has actually been created. This is a draft, not a Release.
+This text was prepared before publication. The published `v1.0.0` artifact has DOI: https://doi.org/10.5281/zenodo.23416237.
+The original archived source snapshot remains immutable.

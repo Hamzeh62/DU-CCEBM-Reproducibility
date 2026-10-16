@@ -1,7 +1,7 @@
 # DU-CCEBM — Maritime Radar Reproducibility
 
 **Sole author:** Hamzeh Ghahramani, Department of Electrical Engineering, Islamic Azad University,
-Hormozgan, Iran.  Research software release candidate `v1.0.0`; **not yet tagged or archived**.
+Hormozgan, Iran.  Research software release `v1.0.0`; **archived on Zenodo** ([DOI: 10.5281/zenodo.23416237](https://doi.org/10.5281/zenodo.23416237)).
 
 This is a **new, clean Git repository with no private Git history**. It is constructed from verified
 scientific assets previously staged privately. Its results represent **three different model
@@ -51,5 +51,7 @@ held-out acquisition. Retraining-from-scratch has not been independently verifie
   are excluded deliberately. Bibliographic references to other published works retain proper credits.
 - AI assistance in software/research drafting is disclosed in `docs/AI_ASSISTED_DEVELOPMENT.md`.
 
-**No Zenodo DOI has been assigned as of this candidate build.** Do not cite an invented DOI.
-Repository intended for this clean snapshot: `https://github.com/Hamzeh62/DU-CCEBM-Reproducibility`.
+**Published and archived release:** `v1.0.0`, [DOI: 10.5281/zenodo.23416237](https://doi.org/10.5281/zenodo.23416237).
+**Cite the immutable Zenodo release** when reproducing published results; later documentation-only changes
+on GitHub `main` do not alter the archived `v1.0.0` artifact.
+Source repository: `https://github.com/Hamzeh62/DU-CCEBM-Reproducibility`.

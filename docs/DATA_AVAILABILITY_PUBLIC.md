@@ -7,4 +7,6 @@ signal bytes, separately obtain exactly the original 14 IPIX CDF recordings, the
 For four-layer NetRAD, the included 21 JSON score snapshots can regenerate all five CSVs;
 for four-layer IPIX, the included eight file summaries can regenerate all three CSVs.
 The bundled four-layer release does not itself provide a raw-to-result NetRAD reproduction.
-DOI will be supplied only after a published Zenodo record is verified.
+The exact published version 1.0.0 of this software is archived at https://doi.org/10.5281/zenodo.23416237.
+The public code/data archive contains derived results and trained model checkpoints, not original raw
+IPIX/NetRAD radar recordings; reproduce at the documented dataset and experiment scopes.
