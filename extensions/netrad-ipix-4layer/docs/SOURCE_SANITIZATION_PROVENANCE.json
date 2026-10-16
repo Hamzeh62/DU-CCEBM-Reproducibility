@@ -1,0 +1,167 @@
+{
+  "source_archive": "NetRAD_IPIX.rar",
+  "source_archive_sha256": "f9295705fdf4f92418d9612f28241e458b12f047d4dc609f8fcc8add9633698e",
+  "operations": [
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1113_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1113_v1.json",
+      "original_sha256": "072db5abca4b27fd1427da4335984f2653e4b390fad8fa54a4beadb2b8ac5465",
+      "release_sha256": "523b7a3620de8365fdb5f6a2bdf54aa06766e805ba63e651916da331a0a33459",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1118_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1118_v1.json",
+      "original_sha256": "c79acb30c0585b807a15bd2bf4cc8ef345b433b58634afea258453dcc907a2dc",
+      "release_sha256": "54c048ebc7fae09a984df3bd6031d157899a40badb8c449cb4559132b34ac610",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1123_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1123_v1.json",
+      "original_sha256": "24b310fbb417bd70f7dbfc2470e6837a87f120ca8b5b6bc5329442fc3bb8b908",
+      "release_sha256": "4d9a9c705877506be0dea367ba71c58079628b0b051462a001c1c3ffe1c143b0",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1128_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1128_v1.json",
+      "original_sha256": "efd7fe08a764a6c2fe0718b9b294ab6bda5795a850cececdb6d5dacc746fe668",
+      "release_sha256": "3e6ca4d4c93ab20a4b5b1472bf2130a2b1c9c2c36bbd048908a4f6d382a95a73",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1132_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1132_v1.json",
+      "original_sha256": "49f3389efc2d835f5012fb035cadfe03d11acc09336b8c05e1d8495681d0cc66",
+      "release_sha256": "98c25dca77fd01d7922bc762981f8adc1e5d2d47cd16a6074dde4d85a6a2b856",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1139_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1139_v1.json",
+      "original_sha256": "415231962eb9bc4dff06216f68998c2d06215d79fdb60568bfbe3a24a29a82bb",
+      "release_sha256": "5517f10ab594a15ac47ac4d82789016eb43808c483b6ab47ef3475fdaf56fab6",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1146_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1146_v1.json",
+      "original_sha256": "7229ca8dd45a3a34ad817f33f2797615b9088bb3703457f814bfd2b59020cd1a",
+      "release_sha256": "f98da9c66491da7bcf4db948c8ed770a0e1e1b864cb9af26468117563058220c",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1239_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1239_v1.json",
+      "original_sha256": "596e33a7511210ea822a4cd2490b2259b7110c8a4e1e8c2666616b7880e49369",
+      "release_sha256": "5bfab02cd248ddbc41016c9bd9b2b5b60a3f42c06cfd33d0c65bc86285a21a67",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1243_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1243_v1.json",
+      "original_sha256": "194ccd10fa8a1ae561f29bf7d236f39f1318056eff93d527680e23025142a40c",
+      "release_sha256": "c67538d6e4668b11966534d74e349be1eb04402077474f73c77d5e054b07a58a",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1247_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1247_v1.json",
+      "original_sha256": "7e5200bed2b9ad99a6cf2c22ea7ce334f03e83f15601b0f954300fde544ee302",
+      "release_sha256": "a2a45d27fe8b76ebb3c935b3a8584933a41b9174054dda555337cb276fc8feef",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1251_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1251_v1.json",
+      "original_sha256": "ba2679ba61fbb0bf1eebaa7e343ce0b1b791e38576c7e8f6aa28919ea38d7bc3",
+      "release_sha256": "3f443c85826927dfb5595f3c2df842cba89de3358a620e527b97b73169926c53",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1254_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1254_v1.json",
+      "original_sha256": "a4a8f51fd6da4dc6eae4a93e1e5031e59d0104625e6d056a3bdebeee9b5a94ef",
+      "release_sha256": "0423bfa8e9b4adee6fd78768ed40f67e9d60f6b4aba9c85e5d50a2ec9c2f8b43",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1258_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1258_v1.json",
+      "original_sha256": "2d33a44e3d250fca92bc93f7000a4912d010eda56832eb69b9418538ce019327",
+      "release_sha256": "fff0e611b6aadd6d97bfaae6d059082f658c6b5ba1dfad36ca86fdd3e44acd43",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1302_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1302_v1.json",
+      "original_sha256": "25bebff165533c036541392180499cea164bbb55feed42bf3540adcdd4f02102",
+      "release_sha256": "b84c26666df6261932623f0792b6aa6cfe79e0e59e08b938de85dea08ebd4917",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1446_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1446_v1.json",
+      "original_sha256": "17dc13d7f4f919530b316fa9138faa18a649e6b3cd90c604e5b43a9fe6fbf891",
+      "release_sha256": "73f4898e48b35628fddcfb73118fe1c163ee8339acaac508e0b5e59e854b7346",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1450_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1450_v1.json",
+      "original_sha256": "ffbc30e38fe8fb8f1082793311e3c38b959e30332cc94dd11d76de247916962e",
+      "release_sha256": "a13dfa2f837be0c17fb1b5dec389551978e7ecc5d90364044cab0a227249e11d",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1457_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1457_v1.json",
+      "original_sha256": "fee25b8722892a58daf72459bf511ddc33523371ca878beb6bcaa871eb1ee8e0",
+      "release_sha256": "5ddbbad74300d17030c2a4faa6a4756707ba9f0f10dded793a9c2e03d334e3bf",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1501_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1501_v1.json",
+      "original_sha256": "6d834e29446b0d69e2986a89a556ba9db93c1ee3c743db97f468d995844d566c",
+      "release_sha256": "492587efbc0142ecd1cff5efaed7c1e5453cca135f6ac2ecb0a7a40674f8bcc5",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1508_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1508_v1.json",
+      "original_sha256": "82a6c9cdae76a6fb7ea5ec42e3b22ce9c6ec88a17d605888ee131a750271b936",
+      "release_sha256": "6a1cd7acb8700a66c1496cefb593cdc6fb3237d78246a81a5cb0278242209850",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1512_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1512_v1.json",
+      "original_sha256": "a0278b61dfd371b793d45d0b8f789b44343dafd9a23a01f8b1f00c21de898e20",
+      "release_sha256": "15fd3ce7f928a9faa7f582b1fe97eea3918ee37af18d08cc14e42097ab32cc72",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "NetRAD/data/checkpoints_du/netrad_roc_1518_v1.json",
+      "source_archive_path": "NetRAD_Blind_Results/Reproducing_DU_Results/data/checkpoints_du/netrad_roc_1518_v1.json",
+      "original_sha256": "aba52898087b7e31afc819ecf89b35c5a65c9706c2a74697053036b4f9de73d7",
+      "release_sha256": "0ee725447e0e1917a9cf81648035c423edcf3858aec74374876d62173db17a05",
+      "action": "remove CERBM-family result keys only"
+    },
+    {
+      "path": "IPIX/data/ipix_sweep_v4duc.json",
+      "source_archive_path": "ipixDU_Blind_Results/Reproducing_DU_Results_ipix/data/ipix_sweep_v4duc.json",
+      "original_sha256": "bfd374fd7a49d8f9074cb53a73b360df9b9496b5c5d15462afe57e605fb4e8b4",
+      "release_sha256": "d525c52127e888a305e1d2c631e320ce1e835acfd1c116755cbc2dddf297cd5e",
+      "action": "remove CERBM-family level, threshold and provenance fields only"
+    }
+  ],
+  "excluded_detector_result_field_counts": {
+    "NetRAD.h0": 42,
+    "NetRAD.thr": 42,
+    "NetRAD.levels": 210,
+    "IPIX.levels": 384,
+    "IPIX.thr": 48
+  }
+}

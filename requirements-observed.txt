@@ -1,0 +1,6 @@
+# Suggested software environment for the verified development artifacts
+# The original project did not freeze full lockfiles for all study stages.
+# PyTorch complex128 and SciPy scipy.io.netcdf_file support are needed.
+Python 3.11+ recommended
+NumPy, SciPy, PyTorch, Matplotlib, threadpoolctl
+CPU single-thread timing requires setting BLAS/OpenMP thread envs to 1.

@@ -1,0 +1,21 @@
+{
+  "weights_sha256": "5d450c073c22c3cb9aeca8b49fe837549f3921d347439b3db268f3234981fb01",
+  "checkpoint_training_complete": true,
+  "source_recordings": 14,
+  "raw_dataset_n": 45000,
+  "raw_target_n": 23550,
+  "mixed_n": 240,
+  "clean_n": 22416,
+  "clean_excluded": 1134,
+  "labels_exact_mixed": true,
+  "labels_exact_clean": true,
+  "scores_mixed_max_abs_err": 5.960464477539063e-08,
+  "scores_clean_max_abs_err": 1.1920928955078125e-07,
+  "scores_clean_mean_abs_err": 8.296253461992364e-09,
+  "scores_mixed_tol1e6": true,
+  "scores_clean_tol1e6": true,
+  "roc_auc_mixed": 0.5261752512121425,
+  "roc_auc_clean": 0.8042930912029781,
+  "wall_seconds": 10.763880186999813,
+  "backend": "scipy.io.netcdf_file"
+}

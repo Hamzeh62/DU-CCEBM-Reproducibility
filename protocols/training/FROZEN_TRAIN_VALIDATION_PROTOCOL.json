@@ -1,0 +1,69 @@
+{
+  "purpose": "Continuation of TRAIN-only engineering model, then validation-only model selection; no TEST access",
+  "dataset_root": "/mnt/data",
+  "train": [
+    "19931107_135603_starea.cdf",
+    "19931107_145028_starea.cdf",
+    "19931108_220902_starea.cdf",
+    "19931109_202217_starea.cdf"
+  ],
+  "validation": [
+    "19931118_035737_stareC0000.cdf",
+    "19980204_163113_ANTSTEP.CDF"
+  ],
+  "test_UNREAD": [
+    "19931111_163625_starea.cdf",
+    "19931118_162658_stareC0000.cdf"
+  ],
+  "train_starts": [
+    9000,
+    21000,
+    33000,
+    45000,
+    57000,
+    69000
+  ],
+  "validation_starts": [
+    7000,
+    11500,
+    16000,
+    20500,
+    25000,
+    29500,
+    34000,
+    38500,
+    43000,
+    47500
+  ],
+  "scr_db": [
+    -30,
+    -20,
+    -10
+  ],
+  "delta_hz": [
+    21.0,
+    60.0
+  ],
+  "epochs_after_preliminary_checkpoint": 4,
+  "candidate_epochs": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "optimizer": "Adam",
+  "learning_rate": 5e-05,
+  "train_loss": "softplus((0.75+score_H0-score_H1)/5), paired ranking",
+  "validation_metric": "mean within-acquisition H0/H1 AUC, 2 acquisitions x 2 offsets x 3 SCR, tie choose earliest epoch",
+  "model": {
+    "L": 6,
+    "K": 4,
+    "depth": 2,
+    "seed": 7,
+    "score": "max two-source normalized coherence M=128",
+    "classical_restarts": 3,
+    "classical_iter": 15
+  },
+  "human_policy": "test not loaded or used during checkpoint selection; exclude CERBM and DU-CERBM outputs"
+}

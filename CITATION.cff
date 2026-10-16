@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this software release and, when published, the associated research paper."
+type: software
+authors:
+  - family-names: Ghahramani
+    given-names: Hamzeh
+    affiliation: "Islamic Azad University, Hormozgan, Iran"
+title: "DU-CCEBM: IPIX and NetRAD maritime radar reproducibility software"
+version: 1.0.0
+repository-code: "https://github.com/Hamzeh62/DU-CCEBM-Reproducibility"
+abstract: "Distinct frozen two-layer and six-layer IPIX DU-CCEBM experiments and per-window four-layer NetRAD/IPIX detection benchmarks, including numerical evidence and trained checkpoints."
+keywords:
+  - maritime radar
+  - IPIX
+  - NetRAD
+  - blind source separation
+  - target detection
+  - deep unfolding

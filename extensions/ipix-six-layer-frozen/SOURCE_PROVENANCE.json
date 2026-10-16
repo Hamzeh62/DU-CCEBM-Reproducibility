@@ -1,0 +1,255 @@
+{
+  "source_archive": "DU-CCEBMCHATGPT1.zip",
+  "source_archive_sha256": "aec9129b4bc998173b794434ca53a7d74a27b61b33ce595e9bda52af0588e003",
+  "checkpoint_source": "user-provided real_A_best_model.pt",
+  "checkpoint_sha256": "5d450c073c22c3cb9aeca8b49fe837549f3921d347439b3db268f3234981fb01",
+  "same_bytes_second_upload": true,
+  "source_files": [
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/du_ccebm_simulation.py",
+      "release_path": "du_ccebm_simulation.py",
+      "archive_sha256": "a6904d29d45d0ec7ed737eeb4a3086d293fe847707e75935c7a4bd03ce41aae7",
+      "archive_bytes": 121223,
+      "release_modified": true,
+      "release_sha256": "581dfd1ff4d63f4b23fb353ff337c1a9eb913b4170ddfb79acf8116edb33d49c",
+      "release_bytes": 121233,
+      "modification_reason": "sole-author comment-header correction; Python AST unchanged"
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/ducc_loss.py",
+      "release_path": "ducc_loss.py",
+      "archive_sha256": "87ae1cfa6f9313137cd2aee8676659f9ed5cba462787460bd0ffd22142cf5ada",
+      "archive_bytes": 13575,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/ducc_paraunitary.py",
+      "release_path": "ducc_paraunitary.py",
+      "archive_sha256": "4a1ad1d6f0829ea46f4e10f613fab6c7aa9c4094346a1fc1dc445b3881acc5b0",
+      "archive_bytes": 11102,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/run_real_A_train.py",
+      "release_path": "run_real_A_train.py",
+      "archive_sha256": "8998889ac3ec928ebd70669ec27686c4a27130f5da79848282ed4ef3dcffcd10",
+      "archive_bytes": 4388,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/run_real_B_anmf.py",
+      "release_path": "run_real_B_anmf.py",
+      "archive_sha256": "9752b0b463f1d24fc2cc3f89447196b72066586e3fad4e32294dc4c8504dc8b1",
+      "archive_bytes": 10325,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/run_real_B2_leak_fix.py",
+      "release_path": "run_real_B2_leak_fix.py",
+      "archive_sha256": "4fba8abfbc8b75ca3231af88132930717385c467da11adf944d131340f603323",
+      "archive_bytes": 8908,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/run_real_C_mmd.py",
+      "release_path": "run_real_C_mmd.py",
+      "archive_sha256": "3397094cfaa5e5bea4700a3502eed6bcb52d2e18e86bf8305c0586a367a82d68",
+      "archive_bytes": 10795,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/run_stage1_exact_paraunitary.py",
+      "release_path": "run_stage1_exact_paraunitary.py",
+      "archive_sha256": "3db3a091097c527dd9728cf1ae2ea213e17bc7d4aa09bb176fe34063f3967cbd",
+      "archive_bytes": 12860,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/run_stage2_anmf.py",
+      "release_path": "run_stage2_anmf.py",
+      "archive_sha256": "f962065ebe8bcd8d8497dc07efdc5027f5e9f3cdd7e400cec0a55026507a2d70",
+      "archive_bytes": 9923,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/run_stage3_pauc_loss.py",
+      "release_path": "run_stage3_pauc_loss.py",
+      "archive_sha256": "221fe64fb52fca6cdc99572f0e2d7e57caa638566fbe357186d4dce614f60037",
+      "archive_bytes": 7357,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/test_ducc_anmf.py",
+      "release_path": "test_ducc_anmf.py",
+      "archive_sha256": "d715c9ef027e70973e4fcb0264890228dd7abd6dbc132379ba7a7e52c5e5b287",
+      "archive_bytes": 8303,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/test_ducc_loss.py",
+      "release_path": "test_ducc_loss.py",
+      "archive_sha256": "fc810429e20ab7b40d30b58ce76154409ba825e2766fd4f6088668a5d286246b",
+      "archive_bytes": 13398,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/test_ducc_paraunitary.py",
+      "release_path": "test_ducc_paraunitary.py",
+      "archive_sha256": "cd559af678e6ee468a410fffc8eeff37ee7b2f722096004749270b29ea0b7b0c",
+      "archive_bytes": 12063,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/test_revision_v2.py",
+      "release_path": "test_revision_v2.py",
+      "archive_sha256": "55f1fdd331885030350cbb980ead32713c252a03c3bcc80364693f5c7ee50909",
+      "archive_bytes": 1365,
+      "release_modified": true,
+      "modification": "Import renamed to classical_ref to avoid conflict with Python standard library code module",
+      "release_sha256": "200ef6ba850eec1fbc14388bfb9417fec563258c1daf3217e6934c8f2ade86dc",
+      "release_bytes": 1535,
+      "modification_reason": "skip historical manuscript-only assertion when old paper deliberately excluded"
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/code/optimized_ccebm.py",
+      "release_path": "classical_ref/optimized_ccebm.py",
+      "archive_sha256": "a268adbcc30e051b4c495786668f8d7d06a7c22ea77d4c95deff28d6ba48373b",
+      "archive_bytes": 13814,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/code/__init__.py",
+      "release_path": "classical_ref/__init__.py",
+      "archive_sha256": "d0904fbc74501356fc5327b293607a57cc4a0a2d3efd029ea37527631fca70f8",
+      "archive_bytes": 65,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/scripts/reproduce_revision_figures.py",
+      "release_path": "scripts/reproduce_revision_figures.py",
+      "archive_sha256": "c8a8ac60a16411faed219fb147955acfa0f6020494688ea6359e62d21b5f342c",
+      "archive_bytes": 11716,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/scripts/run_revision_v2.py",
+      "release_path": "scripts/run_revision_v2.py",
+      "archive_sha256": "178af4120f9b938bef0746173edc7d1b1fffbd84a23e7eec4778762d887edeba",
+      "archive_bytes": 25946,
+      "release_modified": true,
+      "modification": "Import renamed to classical_ref to avoid conflict with Python standard library code module"
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/scripts/render_paper_from_json.py",
+      "release_path": "scripts/render_paper_from_json.py",
+      "archive_sha256": "c09d97ff759299144adc1193b90a017aa7188f904d0d36228c1a6b7f928d7cf9",
+      "archive_bytes": 4158,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/outputs/REVISION_REAL_RESULTS.json",
+      "release_path": "outputs/REVISION_REAL_RESULTS.json",
+      "archive_sha256": "fbcdae0f18fd94be2e0e9c157e08f67f00ff5fc625afa3172c190f165067f061",
+      "archive_bytes": 12407,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/outputs/revision_figures_scores.npz",
+      "release_path": "outputs/revision_figures_scores.npz",
+      "archive_sha256": "996ca352b5810acb51c10b3439807c1b2aeafa02e57c58d26dab9e8ed2aeb1e6",
+      "archive_bytes": 331345,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/outputs/revision_figures_audit.json",
+      "release_path": "outputs/revision_figures_audit.json",
+      "archive_sha256": "f184884972ee8346519a2ca11bc3a015590d54935b3aa7de00325231f19daab9",
+      "archive_bytes": 4868,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/results/REVISION_REAL_RESULTS_v2.json",
+      "release_path": "results/REVISION_REAL_RESULTS_v2.json",
+      "archive_sha256": "5b3951bf05723fd76b6228a6c0cd9a50ee07cd083fb2ad86933fec384fa7d38a",
+      "archive_bytes": 26895,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/results/revision_v2_scores.npz",
+      "release_path": "results/revision_v2_scores.npz",
+      "archive_sha256": "54fc322f644fd54e9ddfd853578453ccfe5d9c7025bf8653b83cbc126dfb88f8",
+      "archive_bytes": 445515,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/results/ccebm_full_scores_progress.npz",
+      "release_path": "results/ccebm_full_scores_progress.npz",
+      "archive_sha256": "a953d4f7000f63b65e73ea8ce3af9210ff1c688988b8594f92f8590428eebb6b",
+      "archive_bytes": 231006,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/results/bootstrap_block_progress.npz",
+      "release_path": "results/bootstrap_block_progress.npz",
+      "archive_sha256": "065da170c7a937778dff94d3ae4b6ef6afcde8288ac8fb0c0daaa9e6d3ec2287",
+      "archive_bytes": 248776,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/results/per_layer_params.csv",
+      "release_path": "results/per_layer_params.csv",
+      "archive_sha256": "ce213701a9124734a9a300fd49b5a96a5f88e8727cc98d3d0c751b7f0a736a15",
+      "archive_bytes": 3176,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/figures/layer_params_heatmap.pdf",
+      "release_path": "figures/layer_params_heatmap.pdf",
+      "archive_sha256": "566894c8d99e0d047efa32119d7081579892644cc9c915c435673e89df098ecb",
+      "archive_bytes": 21873,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/figures/layer_params_heatmap.png",
+      "release_path": "figures/layer_params_heatmap.png",
+      "archive_sha256": "f8b382a70f2bc76eae4d7b4cac332df04648340e08736e636e00d15cf1b91024",
+      "archive_bytes": 88994,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/figures/roc_genuine_zoom.pdf",
+      "release_path": "figures/roc_genuine_zoom.pdf",
+      "archive_sha256": "0bb97f6824ba276c925e85c8d8c945725385bd7feb4d8f69129e4f3edff3f436",
+      "archive_bytes": 29827,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/figures/roc_genuine_zoom.png",
+      "release_path": "figures/roc_genuine_zoom.png",
+      "archive_sha256": "d8783280f96fa1be418f8d66428076f3175e9b2526a8c649af2ca4a73f778276",
+      "archive_bytes": 78485,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/paper/du_ccebm_taes.tex",
+      "release_path": "paper/du_ccebm_taes.tex",
+      "archive_sha256": "4e5f91dd213e06f989c09b3e3dca61525091817915cf7596b0ac60760b975226",
+      "archive_bytes": 42695,
+      "release_modified": false
+    },
+    {
+      "archive_path": "DU-CCEBMCHATGPT1/paper/du_ccebm_refs.bib",
+      "release_path": "paper/du_ccebm_refs.bib",
+      "archive_sha256": "2d9ba0233af6fa46b81a2204cdefe7245fd4cf5fc8a9082b955e7e1223c191cd",
+      "archive_bytes": 16553,
+      "release_modified": false
+    }
+  ],
+  "notes": [
+    "Scientific core preserved byte-for-byte except two import-only adaptations explicitly listed",
+    "Renamed code/ to classical_ref/ only to avoid stdlib module-shadowing problem",
+    "Copy of REVISION_REAL_RESULTS.json placed at package root because legacy runner expects it",
+    "No raw IPIX files are redistributed"
+  ],
+  "public_distribution_note": "Private original 41-file archive was curated; historic manuscript and figure files excluded. This public subtree has a fresh SHA256SUMS for shipped files only."
+}

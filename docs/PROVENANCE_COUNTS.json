@@ -1,0 +1,11 @@
+{
+  "archived_extract_count": 52,
+  "source_archives": [
+    "DU_CCEBM_Locked_TrainValTest_2026-10-08.zip",
+    "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip",
+    "DU_CCEBM_SignalProcessing_NoFunding_NoCOI_2026-10-09.zip",
+    "DU_CCEBM_SignalProcessing_Revised_FullEvidence_2026-10-09.zip",
+    "My_Result.zip"
+  ],
+  "scope": "IPIX-only; 2-layer model + historical 6-layer author-supplied figure assets"
+}

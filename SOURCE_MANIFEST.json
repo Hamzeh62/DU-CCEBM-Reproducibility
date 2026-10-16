@@ -1,0 +1,248 @@
+[
+  {
+    "file": "src/classical/ccebm_v3.py",
+    "source": "My_Result.zip::code/ccebm_v3.py",
+    "sha256": "550e3e2760703f2ad2b85f7e58601ead66b002d92b4a6dc89c06d96c14497197",
+    "bytes": 11580
+  },
+  {
+    "file": "src/classical/pu_lattice.py",
+    "source": "My_Result.zip::code/pu_lattice.py",
+    "sha256": "4523db060bec31a1d71bfb9df2fea54f3c21e80a126bd59f188012ac6e16524f",
+    "bytes": 9032
+  },
+  {
+    "file": "src/classical/cerbm.py",
+    "source": "My_Result.zip::code/cerbm.py",
+    "sha256": "11e5200c9bbc3f023f940dc8d1fc644b0aa0391d8caf298ff1c3becb8f144548",
+    "bytes": 7849
+  },
+  {
+    "file": "src/ipix/ipix_reader.py",
+    "source": "My_Result.zip::code/ipix_reader.py",
+    "sha256": "ff303ad8f931bcf916b864fc76340236d6d9e99d8ddb48c6cfec4b04794d3644",
+    "bytes": 5441
+  },
+  {
+    "file": "src/du/du_ccebm_matched_development.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M512/reference/du/du_ccebm_matched_development.py",
+    "sha256": "c083eee5fa03d8c228cfebb469b7c09d0d5d276aec599ab4360fdc65c116f1f9",
+    "bytes": 8448
+  },
+  {
+    "file": "src/du/pu_lattice_original_reference.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M512/reference/du/pu_lattice_original_reference.py",
+    "sha256": "4523db060bec31a1d71bfb9df2fea54f3c21e80a126bd59f188012ac6e16524f",
+    "bytes": 9032
+  },
+  {
+    "file": "checkpoints/DEPTH2_SELECTED_PRIOR_VALIDATION_ONLY.pt",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M512/reference/du/DEPTH2_SELECTED_PRIOR_VALIDATION_ONLY.pt",
+    "sha256": "866e66c3af35cfee6631d5ad49f8509be0a078130e8c0bb724b3d9bbe7adeb3d",
+    "bytes": 4191
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931108_213827_starea/M512/code/run_confirmatory_subset.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::original_baseline/M512/code/run_confirmatory_subset.py",
+    "sha256": "49478d883dcd181d47907390e040bffde2317a9f5b331d0b46f58033fd304e22",
+    "bytes": 5143
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931108_213827_starea/M512/code/audit_results.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::original_baseline/M512/code/audit_results.py",
+    "sha256": "061fc26648c85ecb9d64a32ade700c872034e41579a97abcd021dd379176a73a",
+    "bytes": 4119
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931108_213827_starea/M512/code/plot_summary.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::original_baseline/M512/code/plot_summary.py",
+    "sha256": "d868a971bec0f467853983942a8da4af9d1c4488c569ad5e940c736ece65d966",
+    "bytes": 900
+  },
+  {
+    "file": "evidence/long_cpi/paired_scores_19931108_213827_starea_M512.csv",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::original_baseline/M512/results/part_*_of_5.json [reconstructed without modification]",
+    "sha256": "7158a8939236e273a62f9a29985eef57ff92ef13cb2d4f436be08d77f159480e",
+    "bytes": 249499
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931108_213827_starea/M1024/code/run_confirmatory_subset.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::original_baseline/M1024/code/run_confirmatory_subset.py",
+    "sha256": "08593865b704c6cb56bd03683af889137a5ee6caeb98f06fe99c4f5a74938911",
+    "bytes": 5144
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931108_213827_starea/M1024/code/audit_results.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::original_baseline/M1024/code/audit_results.py",
+    "sha256": "061fc26648c85ecb9d64a32ade700c872034e41579a97abcd021dd379176a73a",
+    "bytes": 4119
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931108_213827_starea/M1024/code/plot_summary.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::original_baseline/M1024/code/plot_summary.py",
+    "sha256": "8c98d8fac9cde2a9e40b83d98aa3e0d5d88ab98b8f98e88d75ae2dd3e2edb55e",
+    "bytes": 903
+  },
+  {
+    "file": "evidence/long_cpi/paired_scores_19931108_213827_starea_M1024.csv",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::original_baseline/M1024/results/part_*_of_5.json [reconstructed without modification]",
+    "sha256": "59661e7394dc83000d65319e88b29c98ecaec7a509f6d4ecd4eebbc4702d35af",
+    "bytes": 249373
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931109_191449_starea/M512/code/run_confirmatory_subset.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M512/code/run_confirmatory_subset.py",
+    "sha256": "2e50f4f20e24df985c83cb2845eddef558a670ae01f331026d7a328486644733",
+    "bytes": 5143
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931109_191449_starea/M512/code/audit_results.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M512/code/audit_results.py",
+    "sha256": "061fc26648c85ecb9d64a32ade700c872034e41579a97abcd021dd379176a73a",
+    "bytes": 4119
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931109_191449_starea/M512/code/plot_summary.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M512/code/plot_summary.py",
+    "sha256": "d868a971bec0f467853983942a8da4af9d1c4488c569ad5e940c736ece65d966",
+    "bytes": 900
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931109_191449_starea/M512/PROTOCOL_FROZEN.md",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M512/PROTOCOL_FROZEN.md",
+    "sha256": "6074ee3099bac84771ce3a67e7cf1380db93b6884a20e39a5e9b761514d23c76",
+    "bytes": 239
+  },
+  {
+    "file": "evidence/long_cpi/paired_scores_19931109_191449_starea_M512.csv",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M512/results/ALL_1800_PAIRED_SCORES.csv",
+    "sha256": "856f22690435711f861b470897290f968f54426a60aca976b716609b3792f3fb",
+    "bytes": 250121
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931109_191449_starea/M1024/code/run_confirmatory_subset.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M1024/code/run_confirmatory_subset.py",
+    "sha256": "266e4f1c97f0d3bf51253020430dc8272d9b4686b1c530fced21d19bf2c75d4a",
+    "bytes": 5144
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931109_191449_starea/M1024/code/audit_results.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M1024/code/audit_results.py",
+    "sha256": "061fc26648c85ecb9d64a32ade700c872034e41579a97abcd021dd379176a73a",
+    "bytes": 4119
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931109_191449_starea/M1024/code/plot_summary.py",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M1024/code/plot_summary.py",
+    "sha256": "8c98d8fac9cde2a9e40b83d98aa3e0d5d88ab98b8f98e88d75ae2dd3e2edb55e",
+    "bytes": 903
+  },
+  {
+    "file": "protocols/locked_long_cpi/19931109_191449_starea/M1024/PROTOCOL_FROZEN.md",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M1024/PROTOCOL_FROZEN.md",
+    "sha256": "8f278925eaac79ddd15277f5f08d4000b7e76715abc1f09e8c8c5f5d81ac8047",
+    "bytes": 240
+  },
+  {
+    "file": "evidence/long_cpi/paired_scores_19931109_191449_starea_M1024.csv",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::M1024/results/ALL_1800_PAIRED_SCORES.csv",
+    "sha256": "9836cde818d1e46bd73ee8a87f32ae323dfbd8ed8447aadf984317799968a4fd",
+    "bytes": 249799
+  },
+  {
+    "file": "evidence/long_cpi/TWO_ACQUISITION_AGGREGATE.csv",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::results/TWO_ACQUISITION_AGGREGATE.csv",
+    "sha256": "4daaad0a0c9592f617f1ba5db3e74cb1ab823f95dbfb1c63d6d85f0f9ab99ceb",
+    "bytes": 474
+  },
+  {
+    "file": "evidence/long_cpi/PAIRED_Pd_AUC_BY_ACQUISITION.csv",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::results/PAIRED_Pd_AUC_BY_ACQUISITION.csv",
+    "sha256": "37ba1a2e5c3db19cd63a9113e28271b5397bbed889bcb22ebc59297db7da5451",
+    "bytes": 1158
+  },
+  {
+    "file": "evidence/long_cpi/H0_TEMPORAL_HOLDOUT.csv",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::results/H0_TEMPORAL_HOLDOUT.csv",
+    "sha256": "b337c498419d474a62edb5c7e76dd036e928fc7f1bf261e7078db00062fd51e4",
+    "bytes": 400
+  },
+  {
+    "file": "evidence/long_cpi/TIMING_BY_ACQUISITION.csv",
+    "source": "DU_CCEBM_SecondAcq_FullH0_M512_M1024_Verified_2026-10-08.zip::results/TIMING_BY_ACQUISITION.csv",
+    "sha256": "2181624b9a3e356fd3773d554fa3d490b55e6c74d1e94ac542daa5f2cd83e739",
+    "bytes": 501
+  },
+  {
+    "file": "evidence/historical/ipix_v4_non_cerbm_baseline_power.csv",
+    "source": "DU_CCEBM_SignalProcessing_Revised_FullEvidence_2026-10-09.zip::DU_CCEBM_SignalProcessing_Revised/evidence/ipix_v4_non_cerbm_baseline_power.csv",
+    "sha256": "698e4a999cd4a0186e3f5475d46be588a478f60cce8b48082bf5836cbe6ffcf2",
+    "bytes": 21434
+  },
+  {
+    "file": "evidence/historical/ARCHIVED_V4_EIGHT_METHOD_SUMMARY.csv",
+    "source": "DU_CCEBM_SignalProcessing_Revised_FullEvidence_2026-10-09.zip::DU_CCEBM_SignalProcessing_Revised/evidence/ARCHIVED_V4_EIGHT_METHOD_SUMMARY.csv",
+    "sha256": "4c51f03ca064a7ec46235ac38e3dc96876fa596ffb5f382a8a25902f72e0292d",
+    "bytes": 1764
+  },
+  {
+    "file": "evidence/historical/polarimetric_unknown_orientation_cluster_bootstrap.csv",
+    "source": "DU_CCEBM_SignalProcessing_Revised_FullEvidence_2026-10-09.zip::DU_CCEBM_SignalProcessing_Revised/evidence/polarimetric_unknown_orientation_cluster_bootstrap.csv",
+    "sha256": "16256231c2a4d9a1d46a33a613c4796e557c2f82c7fc512bb17265ee813283cc",
+    "bytes": 1532
+  },
+  {
+    "file": "evidence/historical/PAIRWISE_TEST_96_ARCHIVED_ONLY.csv",
+    "source": "DU_CCEBM_SignalProcessing_Revised_FullEvidence_2026-10-09.zip::DU_CCEBM_SignalProcessing_Revised/evidence/PAIRWISE_TEST_96_ARCHIVED_ONLY.csv",
+    "sha256": "96f760d6f369b71b315812cd86a1e26cadce8996bc2e473270db91fef48b1023",
+    "bytes": 7451
+  },
+  {
+    "file": "evidence/historical/longcpi_8SCR_21_60_exploratory_aggregate.csv",
+    "source": "DU_CCEBM_SignalProcessing_Revised_FullEvidence_2026-10-09.zip::DU_CCEBM_SignalProcessing_Revised/evidence/longcpi_8SCR_21_60_exploratory_aggregate.csv",
+    "sha256": "6b023daee6bd3da086580ac2d63d89f1f85275a1c8deeffb90d2cfb45ef953ca",
+    "bytes": 3214
+  },
+  {
+    "file": "protocols/training/FROZEN_TRAIN_VALIDATION_PROTOCOL.json",
+    "source": "DU_CCEBM_Locked_TrainValTest_2026-10-08.zip::FROZEN_TRAIN_VALIDATION_PROTOCOL.json",
+    "sha256": "798ac463b928e1e733bfe3348973c8d4bce2272ae5525aea3a1b8af40b915524",
+    "bytes": 1448
+  },
+  {
+    "file": "protocols/training/LOCKED_MODEL_SELECTION.json",
+    "source": "DU_CCEBM_Locked_TrainValTest_2026-10-08.zip::LOCKED_MODEL_SELECTION.json",
+    "sha256": "780ecfc8804dee933289e26f3e70be87e169aea86ed951710487b66345a607c6",
+    "bytes": 3220
+  },
+  {
+    "file": "evidence/short_cpi/LOCKED_TEST_SUMMARY_AUDIT_ONLY.csv",
+    "source": "DU_CCEBM_Locked_TrainValTest_2026-10-08.zip::LOCKED_TEST_SUMMARY_AUDIT_ONLY.csv",
+    "sha256": "24673dbdc3f8828f1b6b7e2a73adf9537b7b95cb35cac1268fdcc43b65f99f60",
+    "bytes": 1047
+  },
+  {
+    "file": "evidence/short_cpi/LOCKED_TEST_ALL_RATES_AUDIT_ONLY.csv",
+    "source": "DU_CCEBM_Locked_TrainValTest_2026-10-08.zip::LOCKED_TEST_ALL_RATES_AUDIT_ONLY.csv",
+    "sha256": "61d722aab482b8fbf4b4da7822b8018c07af1a50e8b95e8605b620fd5bcdcc11",
+    "bytes": 10539
+  },
+  {
+    "file": "evidence/short_cpi/TIME_SPLIT_PFA_DIAGNOSTIC_ONLY.csv",
+    "source": "DU_CCEBM_Locked_TrainValTest_2026-10-08.zip::TIME_SPLIT_PFA_DIAGNOSTIC_ONLY.csv",
+    "sha256": "5217392a0fef0735681cf89b06e60eb99f3b6297f5c7683589ea613950b842e6",
+    "bytes": 817
+  },
+  {
+    "file": "training/legacy_train_validate_original.py",
+    "source": "DU_CCEBM_Locked_TrainValTest_2026-10-08.zip::train_validate.py",
+    "sha256": "8a04932ec6a33fdab35f2e8a41307bd9e106ae2d1edcb20c3eb3053e77a46cbe",
+    "bytes": 7757
+  },
+  {
+    "file": "training/legacy_evaluate_locked_test_original.py",
+    "source": "DU_CCEBM_Locked_TrainValTest_2026-10-08.zip::evaluate_locked_test.py",
+    "sha256": "2155f7ba84a0b865a3c3a1d7fdd9ea105a726af8d50a408e8c70a066ffce4277",
+    "bytes": 7276
+  }
+]

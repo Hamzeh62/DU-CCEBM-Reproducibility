@@ -1,0 +1,34 @@
+[
+  {
+    "path": "NetRAD/data_norival_DU/netrad_auc_effects_norival_du.csv",
+    "sha256": "eb54f395829257de3d464b5dbfcedef440bfaf278e5bc11a148fe45a4eaf5622"
+  },
+  {
+    "path": "NetRAD/data_norival_DU/netrad_auc_norival_du.csv",
+    "sha256": "9fab9001698b76d48adb209b0756b4c2a8ef24ba9990fc1325968eb8a114994f"
+  },
+  {
+    "path": "NetRAD/data_norival_DU/netrad_power_peracq_norival_du.csv",
+    "sha256": "246963344e5000f30d70b0fad49e079893b04f014fc39c7636acca09b29a0520"
+  },
+  {
+    "path": "NetRAD/data_norival_DU/netrad_power_pfa01_norival_du.csv",
+    "sha256": "70adebda72e507789aa5e938c2d0f67b44d32772fa5d845719d2120155a154fd"
+  },
+  {
+    "path": "NetRAD/data_norival_DU/netrad_roc_curves_norival_du.csv",
+    "sha256": "475e91864163cb92ab3ebcf9d76a8e8b08efaa1bfe048bf33a5196c62578a4b4"
+  },
+  {
+    "path": "IPIX/data_norival_DU_ipix/ipix_effects_norival_du.csv",
+    "sha256": "1c2c55bc4926a3d64158a9120906157434373cfdf29c0cd648d66ffe9e140a0f"
+  },
+  {
+    "path": "IPIX/data_norival_DU_ipix/ipix_pd_median_norival_du.csv",
+    "sha256": "8f14f7c92ae036cc77debf822023090aac1dfcbcbd734b33a0eadbf76ea1ef89"
+  },
+  {
+    "path": "IPIX/data_norival_DU_ipix/ipix_pd_perfile_norival_du.csv",
+    "sha256": "89d4a943a5c63357b4c838e4fd2b3dcfc88ee832f5ef449d3b51f587d2cc805a"
+  }
+]

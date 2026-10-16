@@ -1,0 +1,25 @@
+method,M,mean_Pd_over_8SCR_2doppler_8acq,num_conditions,source
+CCEBM-Full-PU,10,0.195416666667,16,My_Result/results/ipix_sweep_v4.json
+CCEBM-Full-PU,32,0.309583333333,16,My_Result/results/ipix_sweep_v4.json
+CCEBM-Full-PU,128,0.479895833333,16,My_Result/results/ipix_sweep_v4.json
+CCEBM-WL,10,0.191406250000,16,My_Result/results/ipix_sweep_v4.json
+CCEBM-WL,32,0.308072916667,16,My_Result/results/ipix_sweep_v4.json
+CCEBM-WL,128,0.451718750000,16,My_Result/results/ipix_sweep_v4.json
+CCEBM real-AR,10,0.087447916667,16,My_Result/results/ipix_sweep_v4.json
+CCEBM real-AR,32,0.217864583333,16,My_Result/results/ipix_sweep_v4.json
+CCEBM real-AR,128,0.397968750000,16,My_Result/results/ipix_sweep_v4.json
+STFICA,10,0.094114583333,16,My_Result/results/ipix_sweep_v4.json
+STFICA,32,0.254895833333,16,My_Result/results/ipix_sweep_v4.json
+STFICA,128,0.295781250000,16,My_Result/results/ipix_sweep_v4.json
+ANMF (HH),10,0.241458333333,16,My_Result/results/ipix_sweep_v4.json
+ANMF (HH),32,0.324895833333,16,My_Result/results/ipix_sweep_v4.json
+ANMF (HH),128,0.454322916667,16,My_Result/results/ipix_sweep_v4.json
+Kelly GLRT (HH),10,0.221406250000,16,My_Result/results/ipix_sweep_v4.json
+Kelly GLRT (HH),32,0.292447916667,16,My_Result/results/ipix_sweep_v4.json
+Kelly GLRT (HH),128,0.413020833333,16,My_Result/results/ipix_sweep_v4.json
+AMF (HH),10,0.058854166667,16,My_Result/results/ipix_sweep_v4.json
+AMF (HH),32,0.083906250000,16,My_Result/results/ipix_sweep_v4.json
+AMF (HH),128,0.167291666667,16,My_Result/results/ipix_sweep_v4.json
+CA-CFAR (HH),10,0.074791666667,16,My_Result/results/ipix_sweep_v4.json
+CA-CFAR (HH),32,0.111145833333,16,My_Result/results/ipix_sweep_v4.json
+CA-CFAR (HH),128,0.187343750000,16,My_Result/results/ipix_sweep_v4.json

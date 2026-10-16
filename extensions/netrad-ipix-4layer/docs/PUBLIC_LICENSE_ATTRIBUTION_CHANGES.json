@@ -1,0 +1,14 @@
+[
+  {
+    "path": "IPIX/LICENSE",
+    "original_sha256": "a8c64d189777a2d1f293e5d054af9f86b085d59e441ffd1002b656eccd9e6296",
+    "public_sha256": "5f5adb45e23cc6e98c75e66a2658db28fc9c739d87901d9e1c2fdd888161113b",
+    "change": "sole-author copyright attribution only, BSD-2-Clause conditions unchanged"
+  },
+  {
+    "path": "NetRAD/LICENSE",
+    "original_sha256": "a8c64d189777a2d1f293e5d054af9f86b085d59e441ffd1002b656eccd9e6296",
+    "public_sha256": "5f5adb45e23cc6e98c75e66a2658db28fc9c739d87901d9e1c2fdd888161113b",
+    "change": "sole-author copyright attribution only, BSD-2-Clause conditions unchanged"
+  }
+]

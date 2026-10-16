@@ -1,0 +1,85 @@
+{
+  "selection_locked": true,
+  "selected_epoch": 2,
+  "validation_mean_auc": 0.9075000000000001,
+  "selection_metric": "mean per-acquisition per-Doppler per-SCR AUC, held-out Validation only",
+  "preliminary_checkpoint_sha256": "1e0ef6654b8cb0e317ded6dc8b38f9bfac69981094d8f644c7dc4e6e92f83a3b",
+  "checkpoint_sha256": "866e66c3af35cfee6631d5ad49f8509be0a078130e8c0bb724b3d9bbe7adeb3d",
+  "candidate_history": [
+    {
+      "epoch": 0,
+      "train_pair_loss": null,
+      "validation_mean_auc": 0.9066666666666666,
+      "validation_max_paraunitary_residual": 3.383199203771935e-15,
+      "train_max_paraunitary_residual": null,
+      "checkpoint": "candidate_epoch_0.pt",
+      "elapsed_sec": 3.1
+    },
+    {
+      "epoch": 1,
+      "train_pair_loss": 0.38801860630910606,
+      "validation_mean_auc": 0.9066666666666666,
+      "validation_max_paraunitary_residual": 3.4600402809032324e-15,
+      "train_max_paraunitary_residual": 2.9070026355366806e-15,
+      "checkpoint": "candidate_epoch_1.pt",
+      "elapsed_sec": 20.51
+    },
+    {
+      "epoch": 2,
+      "train_pair_loss": 0.38681808286668284,
+      "validation_mean_auc": 0.9075000000000001,
+      "validation_max_paraunitary_residual": 2.975804060002908e-15,
+      "train_max_paraunitary_residual": 3.1090544445649964e-15,
+      "checkpoint": "candidate_epoch_2.pt",
+      "elapsed_sec": 36.55
+    },
+    {
+      "epoch": 3,
+      "train_pair_loss": 0.38565167436491316,
+      "validation_mean_auc": 0.9075000000000001,
+      "validation_max_paraunitary_residual": 3.330157800840164e-15,
+      "train_max_paraunitary_residual": 2.979785186835579e-15,
+      "checkpoint": "candidate_epoch_3.pt",
+      "elapsed_sec": 52.9
+    },
+    {
+      "epoch": 4,
+      "train_pair_loss": 0.38500623848761784,
+      "validation_mean_auc": 0.9075000000000001,
+      "validation_max_paraunitary_residual": 2.794213251476957e-15,
+      "train_max_paraunitary_residual": 3.1645558501806904e-15,
+      "checkpoint": "candidate_epoch_4.pt",
+      "elapsed_sec": 69.64
+    }
+  ],
+  "train_cdf_hashes": {
+    "19931107_135603_starea.cdf": {
+      "cdf_sha256": "0476ddbba6953b2a95e1ca341ed1bfaf0da827114d7520fbffbdebfd9021e0a8",
+      "n_sweeps": 131072
+    },
+    "19931107_145028_starea.cdf": {
+      "cdf_sha256": "7d8dba0d908b0850e9dd166aed1e883d6ec90b1053fd79ea3be64b70c5b7d989",
+      "n_sweeps": 131072
+    },
+    "19931108_220902_starea.cdf": {
+      "cdf_sha256": "3fad1af0ac57f8cf765efc97e2b5b17b629662d3ceacc6c283a31297c33fa63c",
+      "n_sweeps": 131072
+    },
+    "19931109_202217_starea.cdf": {
+      "cdf_sha256": "20302ac9d7ca4717799647fe3f835093b991bbeadcb3a97de27fba3c8d3063a1",
+      "n_sweeps": 131072
+    }
+  },
+  "validation_cdf_hashes": {
+    "19931118_035737_stareC0000.cdf": {
+      "cdf_sha256": "d604db62a5d6c7dc66d6e4bf56a857d9c856a704ee086c88ee224baa8010d9de",
+      "n_sweeps": 131072
+    },
+    "19980204_163113_ANTSTEP.CDF": {
+      "cdf_sha256": "3d4125254a47530a18c91e366366240455ca09f069ae6956ed8a419c00e3ae75",
+      "n_sweeps": 60000
+    }
+  },
+  "test_not_used": true,
+  "limits": "development prototype: depth2 learned steps/initialization vs classical 15 updates and 3 restarts; supervised pairwise ranking; nonblind historical test"
+}
